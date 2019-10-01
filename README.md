@@ -5,4 +5,4 @@ chmod +x tcp.sh
 ./tcp.sh
 ```
 
-https://git.io/v2ray.sh
+bash <(curl -s -L https://git.io/v2ray.sh)
